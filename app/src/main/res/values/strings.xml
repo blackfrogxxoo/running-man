@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">running-man</string>
+    <string name="fuli">福利</string>
+    <string name="key_zhuangbi">装逼</string>
 </resources>
